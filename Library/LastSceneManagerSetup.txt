@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/Jogo31.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
